@@ -4,6 +4,9 @@
 #### ADMIN PASSWORD BRUTEFORCE
 #### DOS THE MONGO CLIENT
 
+###### try with this vulnerable node code
+https://github.com/blessingcharles/mongodbInjection
+
 ### USAGE
 ![usage.png](https://raw.githubusercontent.com/blessingcharles/nosqlInjector/main/Screenshots/usage.png)
 
